@@ -85,7 +85,7 @@ class Yoast_ACF_Analysis_Recalculation {
 					if ( isset( $field['sizes']['thumbnail'] ) ) {
 						// Put all images in img tags for scoring.
 						$alt = ( isset( $field['alt'] ) ) ? $field['alt'] : '';
-						$output .= ' <img src="' . esc_url( $field['sizes']['thumbnail'] ) . '" alt="' . esc_attr( $alt ) . '" />';
+						$output .= ' <img src="' . esc_url( $field['sizes']['thumbnail'] ) . '" alt="ign ' . esc_attr( $alt ) . '" />';
 					} else {
 						$output .= ' ' . $this->get_field_data( $field );
 					}

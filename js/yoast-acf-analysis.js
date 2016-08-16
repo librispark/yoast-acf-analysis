@@ -422,7 +422,7 @@ Scraper.prototype.scrape = function(fields){
 
                 var attachment = cache.get(attachment_id, 'attachment');
 
-                field.content += '<img src="' + attachment.url + '" alt="' + attachment.alt + '" title="' + attachment.title + '">';
+                field.content += '<img src="' + attachment.url + '" alt="ign ' + attachment.alt + '" title="' + attachment.title + '">';
 
             }
 
@@ -467,7 +467,7 @@ Scraper.prototype.scrape = function(fields){
 
             var attachment = cache.get(attachment_id, 'attachment');
 
-            field.content += '<img src="' + attachment.url + '" alt="' + attachment.alt + '" title="' + attachment.title + '">';
+            field.content += '<img src="' + attachment.url + '" alt="ign ' + attachment.alt + '" title="' + attachment.title + '">';
 
         }
 

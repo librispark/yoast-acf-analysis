@@ -8,4 +8,4 @@ This had previously been done by the [WordPress SEO ACF Content Analysis](https:
 
 This Plugin is compatible with the free ACF 4 Version as well as with the PRO Version 5. Please be aware that it ignores Pro Add-Ons for Version 4. In that case please upgrade to ACF PRO Version 5.
 
-# Major credits to kraftner for the rewrite: https://github.com/Yoast/yoast-acf-analysis/tree/2e01c5189405e9a36e08e2176e6b0ee21052a39f
+Major credits to kraftner for the rewrite: https://github.com/Yoast/yoast-acf-analysis/tree/2e01c5189405e9a36e08e2176e6b0ee21052a39f

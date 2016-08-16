@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kraftner/yoast-acf-analysis.git"
+    "url": "git+https://github.com/librispark/yoast-acf-analysis.git"
   },
   "keywords": [
     "yoast",
@@ -24,12 +24,12 @@
     "seo",
     "score"
   ],
-  "author": "Thomas Kräftner, Marcus Forsberg & Team Yoast",
+  "author": "Jeremy Feldman, Thomas Kräftner, Marcus Forsberg & Team Yoast",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/kraftner/yoast-acf-analysis/issues"
+    "url": "https://github.com/librispark/yoast-acf-analysis/issues"
   },
-  "homepage": "https://github.com/kraftner/yoast-acf-analysis#readme",
+  "homepage": "https://github.com/librispark/yoast-acf-analysis#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browserify": "^4.0.1"
